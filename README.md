@@ -10,7 +10,7 @@
 আমরা প্রথমে লারাভেল রিকোয়েস্ট ব্যবহার  করে ভ্যালিডেশন করবো।  তাহলে কি হবে আমাদের ভ্যালিডেশনের কাজ টা  ভ্যালিডেশন ক্লাসই করবে। যদি কোনো
 ভ্যালিডেশন লজিক লিখতে হয় আমরা ভ্যালিডেশন ক্লাস এ লিখবো। ভ্যালিডেশন ক্লাস ভ্যালিডেশনের সকল রেস্পন্সিবিলিটি বহন করবে।
 এটা গেলো একটি  উদারহণ ।  আমরা আরও কয় একটা উদাহরণ দেখবো।
-<p align="center"><img src="https://github.com/ahmediqu/SOLID-Principles-in-Laravel-With-Example-Bangla/blob/single-responsibility-principle/solid.png" width="400"></p>
+<p align="center"><img src="https://github.com/ahmediqu/SOLID-Principles-in-Laravel-With-Example-Bangla/blob/single-responsibility-principle/solid.png" width="100%"></p>
 
 # ২. লাস্ট ইনভিয়াসে ইড  বের করা
 # ৩. ইনভয়েস সেভ করা
